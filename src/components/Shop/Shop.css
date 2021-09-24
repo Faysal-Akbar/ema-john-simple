@@ -7,3 +7,12 @@
     margin-left: 50px;
     margin-right: 5px;
 }
+.search-field{
+    background-color: rgba(0, 0, 0, 0.884);
+    text-align: center;
+    line-height: 60px;
+}
+.search-field input{
+    width: 60%;
+    height: 25px;
+}

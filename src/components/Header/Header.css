@@ -3,11 +3,11 @@
     text-align: center;
 }
 .logo{
-    height: 100px;
+    height: 80px;
 }
 .header nav{
     background-color: #000;
-    line-height: 70px;
+    line-height: 60px;
     text-align: start;
 }
 .header nav a{
